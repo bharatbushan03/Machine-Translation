@@ -7,7 +7,7 @@ def test_translator():
         ("Bonjour le monde", "fr", "en"),
         ("Hola mundo", "es", "en"),
         ("Guten Tag", "de", "en"),
-        ("Hello world", "en", "fr") # Test converting English to French
+        ("Hello world", "en", "fr")
     ]
     
     print("\n--- Starting Verification ---")
