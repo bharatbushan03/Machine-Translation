@@ -1,0 +1,6 @@
+transformers
+torch
+sentencepiece
+sacremoses
+protobuf
+streamlit
