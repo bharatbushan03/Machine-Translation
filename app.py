@@ -1,7 +1,7 @@
 import streamlit as st
 from main import SmartTranslator
 
-st.title("Spider Translator")
+st.title("Machine Translator")
 
 @st.cache_resource
 def get_translator():
